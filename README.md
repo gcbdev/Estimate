@@ -35,6 +35,7 @@
 
 
 RAW TEXT
+---
 Phase 1: Homepage design (10-12hrs)
 Phase 2: Homepage development (14-16hrs)
 Phase 3: Subpage development  (insert # of pages here) (6-7hrs per page) Pag sobrang simple lang ng page ung parang sang section lang (5-6hrs per page) Multiply nyo nalang ilang page.
